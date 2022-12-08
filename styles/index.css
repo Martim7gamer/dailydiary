@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
+
+.top-nav {
+    position: absolute;
+    width: 50%;
+    height: 112px;
+}
+
+.top-nav span {
+    position:absolute;
+    color: white;
+    font-size: 44px;
+    font-family: 'Fredoka One', cursive;
+    height: 100%;
+    padding-top: 26px;
+}
